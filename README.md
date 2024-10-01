@@ -5,7 +5,7 @@
 
 Hello, World! 👋
 
-My name is Ashley Lawless and I am a first year at SAIT. I am currently taking Interactive Design with a main focus in Web Design. I might end up changing my mind about my focus but regardless im still interested in learning as much as I can!
+My name is **Ashley Lawless** and I am a first year at [SAIT] (https://sait.ca). I am currently taking Interactive Design with a main focus in Web Design. I might end up changing my mind about my focus but regardless im still interested in learning as much as I can!
 
 - 🔭 I’m currently working on getting comfortable with my classes. Most of the classes I am taking are completely new to me. I am discoering where I am comfortable and where I can thrive.
 - 🌱 I’m currently learning about code as well as different forms of media. Code is something new to me so learning about front and back end code is really interesting. I am also testing out illustrator and forms of lighting and camera angles in my digital media class. All of which is completely new to me and very interesting to learn!
