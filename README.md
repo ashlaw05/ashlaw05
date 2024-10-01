@@ -1,9 +1,11 @@
 ## Hi there 👋
 
 <!--
-**ashlaw05/ashlaw05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ashlaw05/ashlaw05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
+
+My name is Ashley Lawless and I am a first year at SAIT. I am currently taking Interactive Design with a main focus in Web Design. I might end up changing my mind about ym focus but regardless im still interested in learning as much as I can!
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
