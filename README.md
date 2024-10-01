@@ -13,5 +13,5 @@ My name is Ashley Lawless and I am a first year at SAIT. I am currently taking I
 - 💬 Ask me about the PSA I made in digital media!
 - 📫 How to reach me: ashley.lawless@edu.sait.ca
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I am the biggest marvel nerd ever
 -->
