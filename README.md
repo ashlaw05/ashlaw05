@@ -12,6 +12,6 @@ My name is Ashley Lawless and I am a first year at SAIT. I am currently taking I
 - 🤔 I’m looking for help with HTML coding and the basic steps on how to customize a website. As I have mentioned before, coding is very new to me and it is something I am not as comfortable with. It would be nice to talk to my peers and see if I can understand it a bit more. 
 - 💬 Ask me about the PSA I made in digital media!
 - 📫 How to reach me: ashley.lawless@edu.sait.ca
-- 😄 Pronouns: ...
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 -->
